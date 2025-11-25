@@ -16,13 +16,6 @@ This project demonstrates a full-stack ML pipeline including data processing, mo
 
 ---
 
-## 📂 Project Structure
-
-car_price_notebook.ipynb # Data analysis, cleaning, model training
-backend.py # FastAPI backend for inference
-frontend.py # Streamlit UI for user interactions
-model.pkl # Serialized ML pipeline
-
 ## 📊 Model Performance
 
 The model uses **Linear Regression with Ridge regularization**, achieving an **R² score of 0.86**.
